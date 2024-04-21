@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+KLOTZ Ha     761       1 ?        18:41:53 /usr/bin/mintty
+KLOTZ Ha     935     762 pty0     19:09:00 /usr/bin/ps
+KLOTZ Ha     762     761 pty0     18:41:54 /usr/bin/bash
