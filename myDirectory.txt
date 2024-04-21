@@ -16,4 +16,3 @@ drwxr-xr-x 1 KLOTZ Hannes 197121    0 Feb 27 14:27 org/
 -rw-r--r-- 1 KLOTZ Hannes 197121  729 Apr 20 12:34 MyFileServer.java
 -rw-r--r-- 1 KLOTZ Hannes 197121 1012 Apr 20 12:34 test.java
 -rw-r--r-- 1 KLOTZ Hannes 197121    0 Apr 21 18:53 myDirectory.txt
-Servus
