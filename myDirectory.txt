@@ -1,0 +1,18 @@
+total 61
+-rw-r--r-- 1 KLOTZ Hannes 197121 1506 Feb 27 14:11 Server.class
+-rw-r--r-- 1 KLOTZ Hannes 197121 1715 Feb 27 14:11 Client.class
+drwxr-xr-x 1 KLOTZ Hannes 197121    0 Feb 27 14:27 org/
+-rw-r--r-- 1 KLOTZ Hannes 197121 1817 Feb 27 14:28 Client.java
+-rw-r--r-- 1 KLOTZ Hannes 197121 1306 Feb 27 14:36 Server.java
+-rw-r--r-- 1 KLOTZ Hannes 197121  825 Feb 27 14:56 GreetClient.java
+-rw-r--r-- 1 KLOTZ Hannes 197121 1590 Feb 27 16:11 GreetServer.java
+-rw-r--r-- 1 KLOTZ Hannes 197121  689 Feb 28 08:16 MyServer.java
+-rw-r--r-- 1 KLOTZ Hannes 197121  859 Feb 28 08:30 MyServer2.java
+-rw-r--r-- 1 KLOTZ Hannes 197121 6650 Feb 28 08:39 MyClient.zip
+-rw-r--r-- 1 KLOTZ Hannes 197121  910 Feb 28 09:32 MyClient2.java
+-rw-r--r-- 1 KLOTZ Hannes 197121  378 Apr 20 11:04 test.txt
+-rw-r--r-- 1 KLOTZ Hannes 197121  704 Apr 20 11:16 MyClient.java
+-rw-r--r-- 1 KLOTZ Hannes 197121  877 Apr 20 12:34 MyFileClient.java
+-rw-r--r-- 1 KLOTZ Hannes 197121  729 Apr 20 12:34 MyFileServer.java
+-rw-r--r-- 1 KLOTZ Hannes 197121 1012 Apr 20 12:34 test.java
+-rw-r--r-- 1 KLOTZ Hannes 197121    0 Apr 21 18:53 myDirectory.txt
